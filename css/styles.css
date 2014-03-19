@@ -1,0 +1,14 @@
+/* CSS Document */
+body
+{
+	background-image:url(../images/saintMichaelsMount.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.header
+{
+	background-color:#333;
+	color:#CC9;
+}
+
